@@ -1,6 +1,6 @@
 import "./FooterStyles.css"
 import React from 'react'
-import { FaHome, FaPhone, FaMailBulk } from "react-icons/fa";
+import { FaHome, FaPhone, FaMailBulk, FaGithub, FaLinkedin, FaInstagram, } from "react-icons/fa";
 
 
 const footer = () => {
@@ -23,8 +23,16 @@ const footer = () => {
             <h4><FaMailBulk size={20} style={{ color: "#fff", marginRight: "2rem" }}/>tierneycode@gmail.com</h4>
         </div>
         </div>
-        
-        <div className="right"></div>
+
+        <div className="right">
+            <h4>Matt Tierney</h4>
+            <p>Full-Stack Web Developer, and University of Kansas Bootcamp graduate based in Kansas City, Missouri.</p>
+            <div className="social">
+            <FaGithub size={30} style={{ color: "#fff", marginRight: "1rem" }}/>
+            <FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }}/>
+            <FaInstagram size={30} style={{ color: "#fff", marginRight: "1rem" }}/>
+            </div>
+        </div>
       </div>
     </div>
   )
