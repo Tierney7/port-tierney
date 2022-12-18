@@ -1,5 +1,6 @@
 {
   "name": "portfolio",
+  "homepage": "https://tierney7.github.io/port-tierney/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
