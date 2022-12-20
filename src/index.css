@@ -29,7 +29,7 @@ ul{
   text-transform: uppercase;
   background: transparent;
   color: #fff;
-  border: 1px solid #fff;
+  border: 2px solid rgb(203, 145, 44, 0.5);
   font-weight: 600;
   cursor: pointer;
 }
@@ -40,7 +40,12 @@ ul{
 }
 
 .btn:hover {
-  background: rgba(134, 98, 1, 0.2);
+  background: rgb(203, 145, 44, 0.1);
   color: #fff;
+  transition: 0.3s;
+}
+
+a:hover {
+  color: rgb(203, 145, 44, 0.6);
   transition: 0.3s;
 }
