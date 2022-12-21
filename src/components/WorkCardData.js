@@ -7,28 +7,28 @@ const ProjectCardData = [
     {
         imgsrc: pro1,
         title: "Daily Work Scheduler",
-        text: "My goals for this project were to utilize the openweather API, bootstrap, and java script to log and call on the API city weather information, and display for the user.",
+        text: "Calendar application that allows a user to save events for each hour of the day. This app features dynamically updated HTML and CSS powered by jQuery.",
         view: "https://tierney7.github.io/wicked-weather-dashboard-/"
     },
 
     {
         imgsrc: pro2,
         title: "Random Recipe Generator",
-        text: "My goals for this project were to utilize the openweather API, bootstrap, and java script to log and call on the API city weather information, and display for the user.",
+        text: "Seared is a web app designed to help with deciding what to eat for dinner. This project has pushed our knowledge of Handlebars as well as working with cookies.",
         view: "https://tierney7.github.io/wicked-weather-dashboard-/"
     },
 
     {
         imgsrc: pro3,
         title: "Weather Dashboard",
-        text: "My goals for this project were to utilize the openweather API, bootstrap, and java script to log and call on the API city weather information, and display for the user.",
+        text: "Weather application utilizing the openweather API, bootstrap, and java script to log and call on the API city weather information, and display for the user.",
         view: "https://tierney7.github.io/wicked-weather-dashboard-/"
     },
     
     {
         imgsrc: pro4,
         title: "Note Taker",
-        text: "My goals for this project were to utilize the openweather API, bootstrap, and java script to log and call on the API city weather information, and display for the user.",
+        text: "Note Taker application that can be used to write and save notes. This application uses an Express.js back end which saves and retrieves note data from a JSON file.",
         view: "https://tierney7.github.io/wicked-weather-dashboard-/"
     }
     ];
