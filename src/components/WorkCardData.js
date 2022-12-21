@@ -6,14 +6,14 @@ import pro4 from "../assets/project4.png"
 const ProjectCardData = [
     {
         imgsrc: pro1,
-        title: "Weather Dashboard",
+        title: "Daily Work Scheduler",
         text: "My goals for this project were to utilize the openweather API, bootstrap, and java script to log and call on the API city weather information, and display for the user.",
         view: "https://tierney7.github.io/wicked-weather-dashboard-/"
     },
 
     {
         imgsrc: pro2,
-        title: "Weather Dashboard",
+        title: "Random Recipe Generator",
         text: "My goals for this project were to utilize the openweather API, bootstrap, and java script to log and call on the API city weather information, and display for the user.",
         view: "https://tierney7.github.io/wicked-weather-dashboard-/"
     },
@@ -27,7 +27,7 @@ const ProjectCardData = [
     
     {
         imgsrc: pro4,
-        title: "Weather Dashboard",
+        title: "Note Taker",
         text: "My goals for this project were to utilize the openweather API, bootstrap, and java script to log and call on the API city weather information, and display for the user.",
         view: "https://tierney7.github.io/wicked-weather-dashboard-/"
     }
