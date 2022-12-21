@@ -13,9 +13,9 @@ const ProjectCardData = [
 
     {
         imgsrc: pro2,
-        title: "Random Recipe Generator",
+        title: "Seared (group)",
         text: "Seared is a web app designed to help with deciding what to eat for dinner. This project has pushed our knowledge of Handlebars as well as working with cookies.",
-        view: "https://tierney7.github.io/wicked-weather-dashboard-/"
+        view: "https://seared-project-2.herokuapp.com/"
     },
 
     {
