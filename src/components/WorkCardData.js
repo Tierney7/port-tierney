@@ -8,7 +8,8 @@ const ProjectCardData = [
         imgsrc: pro1,
         title: "Daily Work Scheduler",
         text: "Calendar application that allows a user to save events for each hour of the day. This app features dynamically updated HTML and CSS powered by jQuery.",
-        view: "https://tierney7.github.io/wicked-weather-dashboard-/"
+        view: "https://tierney7.github.io/dailyworkschedule/",
+        source: "https://github.com/Tierney7/dailyworkschedule"
     },
 
     {
@@ -29,7 +30,7 @@ const ProjectCardData = [
         imgsrc: pro4,
         title: "Note Taker",
         text: "Note Taker application that can be used to write and save notes. This application uses an Express.js back end which saves and retrieves note data from a JSON file.",
-        view: "https://tierney7.github.io/wicked-weather-dashboard-/"
+        view: ""
     }
     ];
 
