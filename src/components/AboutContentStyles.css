@@ -10,17 +10,16 @@
 .about .left{
     text-align: center;
     margin: auto;
-    padding: 0.1rem;
-    max-width: 500px;
+    padding: 1.2rem;
+    max-width: 1000px;
 }
 
 .about .left p{
-margin: 0.8rem;
-width: 100%;
+margin: 1.2rem 0;
 }
 
 .about .right{
-    max-width:500px;
+    max-width: 700px;
 }
 
 .right .img-container{
@@ -29,5 +28,11 @@ width: 100%;
     position: relative;
     align-items: center;
     text-align: center;
+}
+
+.right .img{
+    max-width: 90;
+    border: 2px solid #333;
+    
 }
 
