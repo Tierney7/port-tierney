@@ -1,7 +1,7 @@
-import pro1 from "../assets/project1.png"
-import pro2 from "../assets/project2.png"
-import pro3 from "../assets/project3.png"
-import pro4 from "../assets/project4.png"
+import pro1 from "../assets/project1.png";
+import pro2 from "../assets/project2.png";
+import pro3 from "../assets/project3.png";
+import pro4 from "../assets/project4.png";
 
 const ProjectCardData = [
     {
@@ -9,7 +9,7 @@ const ProjectCardData = [
         title: "Daily Work Scheduler",
         text: "Calendar application that allows a user to save events for each hour of the day. This app features dynamically updated HTML and CSS powered by jQuery.",
         view: "https://tierney7.github.io/dailyworkschedule/",
-        source: "https://github.com/Tierney7/dailyworkschedule"
+        source:"https://github.com/Tierney7/dailyworkschedule",
     },
 
     {
@@ -23,7 +23,8 @@ const ProjectCardData = [
         imgsrc: pro3,
         title: "Weather Dashboard",
         text: "Weather application utilizing the openweather API, bootstrap, and java script to log and call on the API city weather information, and display for the user.",
-        view: "https://tierney7.github.io/wicked-weather-dashboard-/"
+        view: "https://tierney7.github.io/tierney-weather/",
+        source: "https://github.com/Tierney7/tierney-weather",
     },
     
     {
