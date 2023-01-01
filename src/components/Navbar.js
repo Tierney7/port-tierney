@@ -39,7 +39,7 @@ const Navbar = () => {
         <li>
             <Link to="/contact">Contact</Link>
         </li>
-      </ul>
+            </ul>
       <div className="hamburger" onClick=
        {handleClick}>
         {click ? (<FaTimes size={20} style={{color: "#fff" }} />) : (<FaBars size={20} style={{color: "#fff" }} />)}     

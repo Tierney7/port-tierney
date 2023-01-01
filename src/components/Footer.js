@@ -28,6 +28,7 @@ const footer = () => {
             <h4>Matt Tierney</h4>
             <p>Full-Stack Web Developer, and University of Kansas Bootcamp graduate based in Kansas City, Missouri.</p>
             <div className="social">
+                   
             <FaGithub size={30} style={{ color: "#fff", marginRight: "1rem" }}/>
             <FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }}/>
             <FaInstagram size={30} style={{ color: "#fff", marginRight: "1rem" }}/>
