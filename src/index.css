@@ -29,7 +29,7 @@ ul{
   text-transform: uppercase;
   background: transparent;
   color: #fff;
-  border: 2px solid rgb(203, 145, 44, 0.5);
+  border: 2px solid rgba(134, 98, 1);
   font-weight: 600;
   cursor: pointer;
 }
