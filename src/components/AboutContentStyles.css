@@ -20,6 +20,8 @@ margin: 1.2rem 0;
 
 .about .right{
     max-width: 700px;
+    position: relative;
+    align-items: center;
 }
 
 .right .img-container{
@@ -28,11 +30,13 @@ margin: 1.2rem 0;
     position: relative;
     align-items: center;
     text-align: center;
+    margin: auto;
 }
 
 .right .img{
     max-width: 90;
-    border: 2px solid #333;
+    border: 2px solid #ffff;
+    
     
 }
 

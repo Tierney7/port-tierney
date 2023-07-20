@@ -2,8 +2,10 @@ import pro1 from "../assets/project1.png";
 import pro2 from "../assets/project2.png";
 import pro3 from "../assets/project3.png";
 import pro4 from "../assets/project4.png";
-
+import pro5 from "../assets/project5.png";
+import pro6 from "../assets/project6.png";
 const ProjectCardData = [
+    
     {
         imgsrc: pro3,
         title: "Weather Dashboard",
@@ -19,6 +21,24 @@ const ProjectCardData = [
         text: "Seared is a web app designed to help with deciding what to eat for dinner. This project has pushed our knowledge of Handlebars as well as working with cookies.",
         view: "https://seared-project-2.herokuapp.com/",
         source: "https://github.com/johnathanmann/Seared",
+    },
+
+    {
+        imgsrc: pro6,
+        title: "Grizzly Habits Photograpghy",
+        text: "WordPress page for Utah based marketing company",
+        view: "http://photography-packages.local/",
+        source: "https://github.com/Tierney7",
+      
+    },
+
+    {
+        imgsrc: pro5,
+        title: "Hi Dive Bar",
+        text: "WordPress page for local Dive Bar",
+        view: "http://hi-dive.local/",
+        source: "https://github.com/Tierney7",
+      
     },
 
     {
