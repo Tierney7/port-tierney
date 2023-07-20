@@ -26,7 +26,7 @@ const ProjectCardData = [
     {
         imgsrc: pro6,
         title: "Grizzly Habits Photograpghy",
-        text: "WordPress page for Utah based marketing company. (WP login info required)",
+        text: "WordPress page for Utah based marketing company. (WP Login info required)",
         view: "http://photography-packages.local/",
         source: "https://github.com/Tierney7",
       
