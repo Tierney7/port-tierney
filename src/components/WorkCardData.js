@@ -26,7 +26,7 @@ const ProjectCardData = [
     {
         imgsrc: pro6,
         title: "Grizzly Habits Photograpghy",
-        text: "WordPress page for Utah based marketing company",
+        text: "WordPress page for Utah based marketing company. (WP login info required)",
         view: "http://photography-packages.local/",
         source: "https://github.com/Tierney7",
       
@@ -35,7 +35,7 @@ const ProjectCardData = [
     {
         imgsrc: pro5,
         title: "Hi Dive Bar",
-        text: "WordPress page for local Dive Bar",
+        text: "WordPress page for local Dive Bar. (WP Login info required)",
         view: "http://hi-dive.local/",
         source: "https://github.com/Tierney7",
       
