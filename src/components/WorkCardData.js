@@ -8,6 +8,15 @@ const ProjectCardData = [
     
     {
         imgsrc: pro3,
+        title: "Lifter 1",
+        text: "Retail Website for nation wide distributed carpet cleaning products. Built with Wordpress, and Elementor",
+        view: "https://www.lifter1.com",
+        
+      
+    },
+
+    {
+        imgsrc: pro3,
         title: "Weather Dashboard",
         text: "Weather application utilizing the openweather API, bootstrap, and java script to log and call on the API city weather information, and display for the user.",
         view: "https://tierney7.github.io/tierney-weather/",
