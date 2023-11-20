@@ -5,13 +5,37 @@ import pro4 from "../assets/project4.png";
 import pro5 from "../assets/project5.png";
 import pro6 from "../assets/project6.png";
 import pro7 from "../assets/project7.png";
+import pro8 from "../assets/project8.png";
+import pro9 from "../assets/project9.png";
+
+
 const ProjectCardData = [
+
+    {
+        imgsrc: pro8,
+        title: "Rock Doctor",
+        text: "Retail Website for nation wide distributed granite and stone cleaning products. Built with Wordpress, and Elementor",
+        view: "https://www.rockdoctor.com",
+        
+      
+    },
+
     
     {
         imgsrc: pro7,
         title: "Lifter 1",
         text: "Retail Website for nation wide distributed carpet cleaning products. Built with Wordpress, and Elementor",
         view: "https://www.lifter1.com",
+        
+      
+    },
+
+       
+    {
+        imgsrc: pro9,
+        title: "MMM Cupcakes",
+        text: "Website for Topeka based cupcake company",
+        view: "https://www.topekacupcakes.com",
         
       
     },
