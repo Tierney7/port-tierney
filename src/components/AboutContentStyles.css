@@ -21,7 +21,7 @@ font-size: 25px;
 
 .about .right{
     max-width: 500px;
-    position: fixed;
+    position: default;
     align-items: center;
 }
 
