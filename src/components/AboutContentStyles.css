@@ -37,6 +37,7 @@ font-size: 25px;
 .right .img{
     max-width: 90;
     border: 2px solid #ffff;
+    align-self: center;
     
     
 }
