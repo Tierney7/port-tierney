@@ -8,21 +8,21 @@
 }
 
 .about .left{
-
+    text-align: center;
     margin: auto;
     padding: 1.2rem;
-    max-width: 500 px;
+    max-width: 1000px;
 }
 
 .about .left p{
 margin: 1.2rem 0;
-font-size: 30px;
+font-size: 25px;
 }
 
 .about .right{
     max-width: 500px;
-    position: relative;
-  
+    position: fixed;
+    align-items: center;
 }
 
 .right .img-container{
