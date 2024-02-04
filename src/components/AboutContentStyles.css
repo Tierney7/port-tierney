@@ -20,8 +20,8 @@ font-size: 25px;
 }
 
 .about .right{
-    max-width: 500px;
-    position: default;
+    max-width: 1000px;
+    position: absolute;
     align-items: center;
 }
 
